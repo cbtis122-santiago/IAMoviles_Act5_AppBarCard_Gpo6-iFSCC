@@ -1,3 +1,3 @@
 # IAMoviles_Act5_AppBarCard_Gpo6-iFSCC
 propiedades  de appbar
-<img width="989" height="169" alt="image" src="https://github.com/user-attachments/assets/97bac3a2-fbbf-4114-bf03-832cea090fd8" />
+<img width="1226" height="634" alt="image" src="https://github.com/user-attachments/assets/81a6a49a-ef98-4a17-a04b-8f61670cf03a" />
